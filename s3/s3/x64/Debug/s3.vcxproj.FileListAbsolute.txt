@@ -1,0 +1,3 @@
+B:\IT\C++\ІСР_GUI\s3\s3\x64\Debug\s3.vcxproj.AssemblyReference.cache
+B:\IT\C++\ІСР_GUI\s3\s3\x64\Debug\s3.s3Form.resources
+B:\IT\C++\ІСР_GUI\s3\s3\x64\Debug\s3.vcxproj.GenerateResource.cache
